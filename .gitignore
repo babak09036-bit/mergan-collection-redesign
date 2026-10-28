@@ -1,0 +1,4 @@
+.claude/
+*.png.tmp
+Thumbs.db
+.DS_Store
